@@ -1,6 +1,6 @@
-#copyright : @an_danh
-# DDoS Tools Copright : an_danh
-#github : https://github.com/hacker2008274
+#copyright : @g_yqt
+# DDoS Tools Copright : g_yqt
+#github : https://github.com/
 #telegram : 0978842516:@an_danh
 #we are no_team
 
