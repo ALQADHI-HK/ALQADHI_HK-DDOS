@@ -1,11 +1,11 @@
 #copyright : @g_yqt
 # DDoS Tools Copright : g_yqt
-#github : https://github.com/
-#telegram : 0978842516:@an_danh
+#github : https://github.com/ALQADHI-HK/ALQADHI_HK-DDOS
+#telegram : @ALQADHI_HK
 #we are no_team
 
 clear
-figlet ALQADHI_HK DDoS 
+figlet ALQADHI DDoS 
 echo -e "\e[3;84m[:::] ...::: DDoS Tools Copright : ALQADHI_HK                 :::... [:::]"
 echo -e "\e[2;52m[:::] ...::: github : https://github.com/hacker2008274        :::... [:::]"
 echo -e "\e[3;48m[:::] ...::: telegram : https://t.me/ALQADHI_HK               :::... [:::]" 
