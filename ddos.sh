@@ -2,7 +2,7 @@
 # DDoS Tools Copright : g_yqt
 #github : https://github.com/ALQADHI-HK/ALQADHI_HK-DDOS
 #telegram : @ALQADHI_HK
-#we are no_team
+#we are no_team9
 
 clear
 figlet ALQADHI DDoS 
@@ -11,6 +11,7 @@ echo -e "\e[2;52m[:::] ...::: github : https://github.com/hacker2008274        :
 echo -e "\e[3;48m[:::] ...::: telegram : https://t.me/ALQADHI_HK               :::... [:::]" 
 echo -e "\033[3;92m[:::]...::: Instagram :    [ g_yqt  ]                       :::... [:::]"
 echo -e "\e[1;34m[:::] Target (example inter the URL here : https://url.com/)  : "
+echo -e "\e[1;34m ===> "
 read target
 echo -e "\033[3;93m[:::]         I am ALQADHI_HK YEMEN         [:::]"
 sleep 5
