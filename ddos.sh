@@ -15,4 +15,4 @@ echo -e "\e[1;34m ===> "
 read target
 echo -e "\033[3;93m[:::]         I am ALQADHI_HK YEMEN         [:::]"
 sleep 5
-go run 1.go -site $target
+go run ALQADHI.go -site $target
