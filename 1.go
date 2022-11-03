@@ -1,11 +1,11 @@
 package main
 
 /*
- Yemen-Cyber-Armi_DoS tool on <strike>steroids</strike> goroutines. Just ported from Python with some improvements.
+ ALQADHI-HK DDoS tool on <strike>steroids</strike> goroutines. Just ported from Python with some improvements.
  Original Python utility by Barry Shteiman http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/
 
  This go program licensed under GPLv3.
- Copyright Alexander I.Grafov <grafov@gmail.com>
+ Copyright Alexander I.Grafov <alqadhihk@gmail.com>
 */
 
 import (
@@ -124,7 +124,7 @@ func main() {
         }
 
         go func() {
-                fmt.Println("[:::] ...::: DDoS Viet_Hack Tools Attack Started :::... [:::] \n           Copyright : +85978842516 | @an_danh\n\n")
+                fmt.Println("[:::] ...::: DDoS ALQADHI_HK Tools Attack Started :::... [:::] \n           Copyright : +85978842516 | @an_danh\n\n")
                 ss := make(chan uint8, 8)
                 var (
                         err, sent int32
